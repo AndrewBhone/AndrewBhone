@@ -1,128 +1,146 @@
 
+<!-- ═══════════════ COSMIC DEVELOPER OS ═══════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0F172A,100:0891B2&text=SPACE%20%2F%20AI%20%2F%20EARTH&fontSize=36&fontColor=E0F2FE&fontAlignY=38&desc=Building%20technology%20beyond%20the%20ordinary&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Space technology banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0F172A,70:075985,100:06B6D4&text=EXPLORING%20THE%20UNKNOWN&fontColor=E0F2FE&fontSize=34&fontAlignY=38&desc=CODE%20%E2%80%A2%20SPACE%20%E2%80%A2%20ARTIFICIAL%20INTELLIGENCE&descSize=13&descAlignY=57&animation=twinkling&stroke=38BDF8&strokeWidth=1" />
 
-# `> EXPLORER INITIALIZED_`
-
-### PYTHON DEVELOPER · SPACE TECHNOLOGY · ARTIFICIAL INTELLIGENCE
-
-*From observing Earth to exploring the Moon.*
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Initializing+Developer+Profile...;Building+AI+for+Earth+%26+Space;Tracking+Satellites.+Exploring+the+Moon.;Turning+Curiosity+Into+Technology.;Mission+Status%3A+NEVER+STOP+EXPLORING" alt="Animated typing introduction" />
+</a>
 
 <br/>
 
-[![EarthPulse](https://img.shields.io/badge/EARTHPULSE-00BFA6?style=for-the-badge&logo=googleearth&logoColor=white)](https://earthpulsev9.netlify.app)
-[![Orbit AI](https://img.shields.io/badge/ORBIT_AI-2563EB?style=for-the-badge&logo=spacex&logoColor=white)](https://glittery-boba-6e04e3.netlify.app/#home)
-[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<img src="https://img.shields.io/badge/STATUS-EXPLORING%20THE%20UNKNOWN-0EA5E9?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20SPACE%20%7C%20PYTHON-0891B2?style=for-the-badge&labelColor=020617" />
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=0284C7&label=PROFILE+VISITS" />
 
 </div>
 
 ---
 
-## `01 // TRANSMISSION LOG`
-
-> Hello, world. Welcome to my corner of the universe.
-
-I'm a self-taught developer exploring the intersection of **space technology, artificial intelligence, and Earth observation**.
-
-I build projects to learn by doing: working with satellite data, experimenting with AI models, developing interactive maps, and creating personal automation systems.
+## `01 // THE OPERATOR`
 
 ```text
-CURRENT MISSION
----------------
-[ACTIVE]  Space & satellite systems
-[ACTIVE]  Python and AI experimentation
-[ACTIVE]  Earth observation technology
-[ONGOING] Robotics and mechatronics
-[GOAL]    Contribute to the future of space exploration
+NAME       : Andrew Bhone
+IDENTITY   : Self-taught developer
+MISSION    : Build useful technology for Earth and space
+CORE TOOLS : Python · AI · APIs · Data Visualization
+INTERESTS  : Space Exploration · Robotics · Earth Observation
 ```
+
+I'm interested in the technology that helps us understand our planet, explore space, and solve real-world problems.
+
+I build projects to learn by doing—from satellite tracking and lunar image analysis to disaster-monitoring maps and AI assistants.
+
+**I don't just want to learn how technology works. I want to build things with it.**
 
 ---
 
-## `02 // MISSION ARCHIVE`
+## `02 // ACTIVE MISSIONS`
+
+<div align="center">
+
+<a href="https://earthpulsev9.netlify.app">
+<img src="https://img.shields.io/badge/01-EARTHPULSE-0F766E?style=for-the-badge&labelColor=020617" />
+</a>
+<a href="https://glittery-boba-6e04e3.netlify.app/#home">
+<img src="https://img.shields.io/badge/02-ORBIT%20AI-0369A1?style=for-the-badge&labelColor=020617" />
+</a>
+<img src="https://img.shields.io/badge/03-LUNAR%20AI-7C3AED?style=for-the-badge&labelColor=020617" />
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 EARTHPULSE
+<h3>🌍 EarthPulse</h3>
 
-**Earth & Disaster Monitoring**
+**EARTH OBSERVATION / DISASTER MONITORING**
 
-An interactive map project designed to make disaster-related and environmental information easier to explore, with a focus on Dawei.
+An interactive map project for exploring disaster-related information, with a focus on making data more accessible for areas such as Dawei.
 
-`GEOSPATIAL` `EARTH OBSERVATION`
+- 🌧️ Disaster and environmental monitoring
+- 🛰️ Geospatial data exploration
+- 🗺️ Interactive mapping
 
-[↗ LAUNCH LIVE SYSTEM](https://earthpulsev9.netlify.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ ORBIT AI
-
-**ISS Tracking Assistant**
-
-An International Space Station tracking project exploring orbital movement, position visualization, and AI-assisted space information.
-
-`PYTHON` `SPACE`
-
-[↗ LAUNCH LIVE SYSTEM](https://glittery-boba-6e04e3.netlify.app/#home)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌙 LUNAR AI
-
-**Lunar Surface Analysis**
-
-An experimental project using the NASA–IBM Lunar Foundation Model for lunar imagery analysis and crater-detection experiments.
-
-`PYTORCH` `LUNAR AI`
-
-**Status:** Experimental
+<a href="https://earthpulsev9.netlify.app"><b>↗ OPEN LIVE DEMO</b></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🪐 SATELLITE TRACKER
+<h3>🛰️ Orbit AI</h3>
 
-**Orbital Data & Visualization**
+**ISS TRACKING / AI ASSISTANT**
 
-Python experiments involving satellite positions, orbital paths, ground tracks, and Earth observation imagery.
+An ISS-focused project combining location tracking with AI-assisted explanations to make space information easier to explore.
 
-`SKYFIELD` `PYTHON`
+- 🌎 ISS position and movement
+- 🤖 AI-assisted explanations
+- 🚀 Space information interface
 
-**Status:** Project collection
+<a href="https://glittery-boba-6e04e3.netlify.app/#home"><b>↗ OPEN LIVE DEMO</b></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 ARTEMIS II TRACKER
+<h3>🌕 Lunar AI</h3>
 
-**Spaceflight Tracking Experiment**
+**LUNAR SCIENCE / COMPUTER VISION**
 
-A project exploring mission-tracking information, automated data extraction, and AI-assisted explanations.
+An experimental project exploring NASA–IBM's Lunar Foundation Model for lunar surface analysis and crater-detection workflows.
 
-`PYTHON` `AUTOMATION`
+- 🌑 Lunar imagery analysis
+- 🧠 Foundation-model inference
+- 🔬 Experimental computer vision
 
-**Status:** Experimental
+<sub>Research and development in progress.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 JARVIS — SECOND BRAIN
+<h3>🌐 Satellite Explorer</h3>
 
-**Personal Knowledge System**
+**ORBITAL DATA / EARTH OBSERVATION**
 
-A local AI assistant project combining language models, knowledge retrieval, and an Obsidian knowledge base.
+Python-based experiments for tracking satellites, visualizing orbital paths, and exploring satellite imagery.
 
-`LOCAL AI` `RAG`
+- 🛰️ Satellite position calculations
+- 🌍 Ground-track visualization
+- 🖼️ Earth observation data
 
-**Status:** In development
+<sub>Building and experimenting with real-world data.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🚀 Artemis II Tracker</h3>
+
+**SPACEFLIGHT / LIVE INFORMATION**
+
+An experimental spaceflight-tracking project exploring browser automation and AI-assisted mission explanations.
+
+- 🔭 Mission information extraction
+- 🤖 AI explanations
+- 🌌 Spaceflight visualization
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧠 Jarvis — Second Brain</h3>
+
+**LOCAL AI / PERSONAL KNOWLEDGE**
+
+A personal knowledge-system project exploring local language models and retrieval-augmented generation.
+
+- 💻 Local AI experiments
+- 📚 Obsidian knowledge workflows
+- 🔎 Context-based retrieval
 
 </td>
 </tr>
@@ -130,53 +148,66 @@ A local AI assistant project combining language models, knowledge retrieval, and
 
 ---
 
-## `03 // TECHNOLOGY STACK`
+## `03 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
-### PROGRAMMING & DEVELOPMENT
+### LANGUAGES & DEVELOPMENT
 
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=FACC15)
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=F97316)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=38BDF8)
-![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F97316)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=FFFFFF)
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark&perline=7" />
 
-### AI & DATA
+### AI, DATA & SPACE
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-0F172A?style=flat-square&logo=googleearthengine&logoColor=34A853)
-![NASA Data](https://img.shields.io/badge/NASA_Open_Data-0F172A?style=flat-square&logo=nasa&logoColor=FFFFFF)
-
-### SPACE & KNOWLEDGE SYSTEMS
-
-![Skyfield](https://img.shields.io/badge/Skyfield-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
-![Obsidian](https://img.shields.io/badge/Obsidian-0F172A?style=flat-square&logo=obsidian&logoColor=A78BFA)
-![Netlify](https://img.shields.io/badge/Netlify-0F172A?style=flat-square&logo=netlify&logoColor=38BDF8)
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=probot&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Satellite%20Tracking-111827?style=for-the-badge&logo=spacex&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Earth%20Observation-111827?style=for-the-badge&logo=googleearth&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5DADE2" />
+<img src="https://img.shields.io/badge/Geospatial%20Data-111827?style=for-the-badge&logo=mapbox&logoColor=60A5FA" />
 
 </div>
 
 ---
 
-## `04 // NEXT OBJECTIVES`
+## `04 // CURRENT FLIGHT PLAN`
 
-- [ ] Improve lunar surface analysis workflows.
-- [ ] Explore more satellite and Earth observation datasets.
-- [ ] Develop useful AI-powered applications.
-- [ ] Learn more about robotics and mechatronics.
-- [ ] Build toward a future in space technology.
+```python
+class Developer:
+    def __init__(self):
+        self.mission = "Build useful technology"
+        self.learning = [
+            "Python",
+            "Artificial Intelligence",
+            "Satellite Tracking",
+            "Earth Observation",
+            "Space Technology",
+        ]
+
+    def next_step(self):
+        return "Build something real, test it, and improve it."
+
+while True:
+    learn()
+    build()
+    test()
+    improve()
+```
 
 ---
 
-## `05 // DEVELOPER DIRECTIVE`
+## `05 // ESTABLISH CONNECTION`
 
 <div align="center">
 
-### `LEARN → BUILD → TEST → IMPROVE`
+**Curiosity is the starting point. Building is the mission.**
 
-*The universe is vast. There is always something new to discover.*
+<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:0F172A,100:020617&height=120&section=footer" width="100%" alt="Blue deep-space footer"/>
+<br/><br/>
+
+<em>Somewhere between Earth and the stars, there's always something new to discover.</em>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,45:075985,100:020617&animation=twinkling" />
 
 </div>
